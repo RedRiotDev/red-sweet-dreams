@@ -1,2 +1,6 @@
-##a
 youtube.com#@##a
+googlevideo.com#@##a
+ytimg.com#@##a
+!gstatic.com#@##a
+!ggpht.com#@##a
+##a
